@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dennis355/goit-react-hw-02-feedback/static/css/main.2299cc0e.css",
+    "main.js": "/Dennis355/goit-react-hw-02-feedback/static/js/main.3ebaf58f.js",
+    "index.html": "/Dennis355/goit-react-hw-02-feedback/index.html",
+    "main.2299cc0e.css.map": "/Dennis355/goit-react-hw-02-feedback/static/css/main.2299cc0e.css.map",
+    "main.3ebaf58f.js.map": "/Dennis355/goit-react-hw-02-feedback/static/js/main.3ebaf58f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2299cc0e.css",
+    "static/js/main.3ebaf58f.js"
+  ]
+}
