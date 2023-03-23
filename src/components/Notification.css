@@ -1,9 +1,8 @@
-.notofic__block{
-    display: block;
-    width: 350px;
-    outline: 2px solid green;
+.notofic__block {
+  display: block;
+  width: 350px;
+  outline: 2px solid grey;
 }
-
 
 .notific__messege {
   font-style: italic;
