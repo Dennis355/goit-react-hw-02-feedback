@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-import { Statistics } from 'components/Statistics';
+import { Statistics } from 'components/Statistics/Statistics';
+import css from 'components/FeedbakFull/FeedbackFull.module.css'
+// import css from 'com      module.css';
 
-import css from 'components/feedbackFull.module.css';
-
-import { Notification } from 'components/Notification';
+import { Notification } from 'components/Notification/Notification';
 
 import PropTypes from 'prop-types';
-import { Buttons } from 'components/Buttons';
+import { Buttons } from 'components/Buttons/Buttons';
 class FeedbackFull extends Component {
   state = {
     good: 0,

@@ -1,5 +1,5 @@
 import React from 'react';
-import { FeedbackFull } from 'components/feedbackFull';
+import { FeedbackFull } from 'components/FeedbakFull/FeedbackFull';
 
 export const App = () => {
   return (
