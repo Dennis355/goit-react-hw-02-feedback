@@ -1,5 +1,7 @@
 import React from 'react';
+
 import 'components/Notification/Notification.css';
+
 const Notification = ({ message }) => {
   return (
     <div className="notofic__block">
